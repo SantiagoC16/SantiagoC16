@@ -25,4 +25,4 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoC16&theme=material-palenight&hide_border=true&bg_color=00000000&include_all_commits=false&count_private=false&layout=donut" alt="santiagoc16" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoC16&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="santiagoc16" /></p>
